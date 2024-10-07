@@ -25,3 +25,5 @@ payload:
 }
 
 return all entities which restrooms are false and picnic is true
+
+Also have unit tests cover the reading function
